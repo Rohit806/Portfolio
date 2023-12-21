@@ -1,6 +1,6 @@
 .project-heading{
     text-align: center;
-    padding:4rem 0 2rem 0;
+    padding:.5rem 0 1rem 0;
 }
 
 .project-container{
@@ -37,6 +37,13 @@
 .pro-btns{
     justify-content: center;
     text-align: center;
+    margin-top: 10px;
+}
+.view-btn{
+    border:2px solid white;
+    border-radius: 20%;
+    padding:5px 10px;
+    background-color:blueviolet;
 }
 
 @media screen and (max-width:740px){

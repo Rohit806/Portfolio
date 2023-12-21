@@ -10,8 +10,8 @@ const Footer = () => {
         
         <div className='location'>
           <FaHome size={20} style={{color:"white", marginRight:"2rem"}} />
-          <p>Shahpur ,Belgaum .</p>
-          <p>~/India</p>
+          <p>Belgaum</p>
+          <p>/Karnataka</p>
         </div>
 
         <div className='phone'>
@@ -19,7 +19,7 @@ const Footer = () => {
         </div>
 
         <div className='mail'>
-          <h4><FaMailBulk size={20} style={{color:"white", marginRight:"2rem"}} />~ rohit806@gmail.com</h4>
+          <h4><FaMailBulk size={20} style={{color:"white", marginRight:"2rem"}} />~ rohitjadhav806@gmail.com</h4>
         </div>
 
       </div>
