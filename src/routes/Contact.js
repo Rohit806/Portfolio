@@ -11,7 +11,7 @@ const Contact = () => {
       <div className='contact-container'>
         <div className='contact-btn'>
            <div className='cbtn' >
-            <NavLink to="mailto:rohitjadhav806@gnail.com">CONTACT ME</NavLink>
+            <NavLink to="mailto:rohitjadhav806@gmail.com">CONTACT ME</NavLink>
            </div>
         </div>
 
